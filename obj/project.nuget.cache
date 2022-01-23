@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0Lg2m4Wz3QVYsPOP+6pTXSxGU8zmQmbPZKRWqgGsJCS9R9u0qKJ18NgwYv3AVGEU3X5V9lxm4I3fSfCP4oMOSQ==",
+  "dgSpecHash": "tUmL/V0iUD2W5nbBhyQBuSsp2K036ZIA8Nkhehzs3eYYy5PnyxsRG7pEGsYpgLBJ/uFx/TWKPzUcxrJKKCAw+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\source\\repos\\Authentication and authorization\\Authentication and authorization\\Authentication and authorization.csproj",
+  "projectFilePath": "D:\\git\\Authentication-and-Authorization-using-ASP.NET-core-6\\Authentication and authorization.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -8598,11 +8598,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\Authentication and authorization\\Authentication and authorization\\Authentication and authorization.csproj",
+      "projectUniqueName": "D:\\git\\Authentication-and-Authorization-using-ASP.NET-core-6\\Authentication and authorization.csproj",
       "projectName": "Authentication and authorization",
-      "projectPath": "C:\\Users\\HP\\source\\repos\\Authentication and authorization\\Authentication and authorization\\Authentication and authorization.csproj",
+      "projectPath": "D:\\git\\Authentication-and-Authorization-using-ASP.NET-core-6\\Authentication and authorization.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\source\\repos\\Authentication and authorization\\Authentication and authorization\\obj\\",
+      "outputPath": "D:\\git\\Authentication-and-Authorization-using-ASP.NET-core-6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

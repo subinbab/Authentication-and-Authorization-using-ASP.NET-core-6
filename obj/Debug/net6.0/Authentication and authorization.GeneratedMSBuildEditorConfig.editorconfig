@@ -8,49 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Authentication_and_authorization
 build_property.RootNamespace = Authentication_and_authorization
-build_property.ProjectDir = C:\Users\HP\source\repos\Authentication and authorization\Authentication and authorization\
+build_property.ProjectDir = D:\git\Authentication-and-Authorization-using-ASP.NET-core-6\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HP\source\repos\Authentication and authorization\Authentication and authorization
+build_property.MSBuildProjectDirectory = D:\git\Authentication-and-Authorization-using-ASP.NET-core-6
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/Home/AccessDenied.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Authen/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXV0aGVuXFZpZXdzXEhvbWVcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Authen/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXV0aGVuXFZpZXdzXEhvbWVcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Authen/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXV0aGVuXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Authen/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXV0aGVuXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Authen/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXV0aGVuXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Authen/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXV0aGVuXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/Home/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/Home/Index.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/Home/Login.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/Home/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/Home/Privacy.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/Home/Secured.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/Home/Secured.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTZWN1cmVkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/Shared/Error.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/_ViewImports.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/_ViewStart.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/source/repos/Authentication and authorization/Authentication and authorization/Views/Shared/_Layout.cshtml]
+[D:/git/Authentication-and-Authorization-using-ASP.NET-core-6/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-r5ln6nmzyo
